@@ -15,3 +15,4 @@ The 'oss_docs' directory contains useful things to use in your repo (This direct
 
 Also included is an MIT "LICENSE" file.
 
+Note, the ISSUE_TEMPLATE.md is old, but it appears that the new style can't be used as a default.
