@@ -1,4 +1,4 @@
-# Robb's templates
+# CodeZero GitHub templates
 
 This repository contains templates that are useful for projects:
 
