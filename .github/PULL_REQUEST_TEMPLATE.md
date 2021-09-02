@@ -2,7 +2,7 @@
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-Fixes #(issue)
+fixes #(issue)
 
 ## Type of change
 
@@ -11,7 +11,7 @@ Fixes #(issue)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 - [ ] Technical improvement or removal of technical debt. 
-- [ ] Minor change: comments, documentation, trivial fixes
+- [ ] Minor change: documentation, comments, documentation, trivial fixes
 
 ## How Has This Been Tested?
 
