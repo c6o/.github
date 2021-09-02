@@ -11,7 +11,7 @@ fixes #(issue)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 - [ ] Technical improvement or removal of technical debt. 
-- [ ] Minor change: documentation, comments, documentation, trivial fixes
+- [ ] Minor change: comments, documentation, trivial fixes
 
 ## How Has This Been Tested?
 
