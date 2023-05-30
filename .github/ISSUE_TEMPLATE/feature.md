@@ -1,5 +1,5 @@
 ---
-name: "\U0001F680 Feature Request"
+name: "Feature Request"
 about: Create a new feature
 title: ''
 labels: feature
@@ -7,24 +7,30 @@ assignees: ''
 
 ---
 
-### Business Requirements:
+### Business Requirements
+
 This is the "why" for the feature. The high-level requirements.
 
-### User Story:
+### User Story
+
 As a...
 I want to...
 So that...
 
-### Acceptance Criteria:
+### Acceptance Criteria
+
 1. Given
 When
 Then
 
-### Technical Requirements:
+### Technical Requirements
+
 This is the "how" for the feature. What do we need to implement to meet the requirements?
 
-### UX/UI Design:
+### UX/UI Design
+
 Optionally add wireframes, mockups, prototypes, etc.
 
-### Architetural Drawings
+### Architectural Drawings
+
 Please add links to relevant documentation, plans and architectural drawings.
